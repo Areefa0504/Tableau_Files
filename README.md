@@ -3,6 +3,7 @@ Here the tableau project is implemented through:
 1. Creating the persona through specific questions
 2. Resolving and answering the questions with visualizations in clear
 This will help in improving problem-soving skills using any visualization tool easily. For more details, check the document "Data Visualization Project"
+
 **1.2 Persona and Questions**
 Video games have become a lucrative investment for banks and financial institutions. With 
 the steady growth of the gaming industry, many banks have recognized the potential for 
@@ -24,6 +25,7 @@ the period analyzed.
 **Addressing question 2** would facilitate the bank in evaluating the extent to which user count 
 influences game sales and in identifying whether there is variability in the impact of user 
 count on sales among different gaming genres.
+
 **1.3 Requirements:**
 Q1. What is the year-over-year (YOY) growth rate of sales in the three largest markets for 
 major games launched between 1996 and 2016, and how have the top five publishers 
