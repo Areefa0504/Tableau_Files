@@ -2,7 +2,7 @@
 Here the tableau project is implemented through:
 1. Creating the persona through specific questions
 2. Resolving and answering the questions with visualizations in clear
-This will help in improving problem-soving skills using any visualization tool easily. For more details, check the document "Data Visualization Project"
+This will help in improving problem-soving skills using any visualization tool easily. For more details, check the document "**Data Visualization Project**" It has full implementation steps along with the observations.
 
 **1.2 Persona and Questions**
 Video games have become a lucrative investment for banks and financial institutions. With 
